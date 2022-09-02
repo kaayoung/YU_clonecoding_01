@@ -1,0 +1,15 @@
+:root {
+    --main-green : #20BF77 ;
+    --point-green : #00C471 ;
+    --gray : #F6F6F6;
+    --dark-gray : #E8EBEE ;
+    --font-gray : #757575 ;
+    
+}
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
